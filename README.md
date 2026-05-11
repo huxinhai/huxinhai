@@ -1,3 +1,3 @@
 ## 💻 Languages
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=huxinhai&langs_count=10&layout=compact&theme=default)
+![Top Langs](https://github.com/huxinhai/github-stats-extended/blob/master/profile/languages.svg)
